@@ -45,18 +45,18 @@ set laststatus=2
 set showcmd
 
 " navigation
-nnoremap <up> <nop>
-nnoremap <down> <nop>
-nnoremap <left> <nop>
-nnoremap <right> <nop>
-vnoremap <up> <nop>
-vnoremap <down> <nop>
-vnoremap <left> <nop>
-vnoremap <right> <nop>
-inoremap <up> <nop>
-inoremap <down> <nop>
-inoremap <left> <nop>
-inoremap <right> <nop>
+" nnoremap <up> <nop>
+" nnoremap <down> <nop>
+" nnoremap <left> <nop>
+" nnoremap <right> <nop>
+" vnoremap <up> <nop>
+" vnoremap <down> <nop>
+" vnoremap <left> <nop>
+" vnoremap <right> <nop>
+" inoremap <up> <nop>
+" inoremap <down> <nop>
+" inoremap <left> <nop>
+" inoremap <right> <nop>
 
 nnoremap j gj
 nnoremap k gk
@@ -95,7 +95,7 @@ map <c-c> <c-a>
 
 " kodblokk osszecsukasa
 nnoremap <c-f> zf%
-nnoremap <BS> zfa{
+nnoremap <c-c> zfa{
 
 " sorvegi szokozok torlese
 nnoremap <Leader>wr :%s/\s\+$//e<CR>
