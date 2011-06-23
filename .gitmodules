@@ -1,57 +1,57 @@
-[submodule "bundle/snipmate"]
+[submodule "home/.vim/bundle/snipmate"]
 	path = home/.vim/bundle/snipmate
 	url = https://github.com/msanders/snipmate.vim
-[submodule "bundle/nerdtree"]
+[submodule "home/.vim//nerdtree"]
 	path = home/.vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "bundle/frugitive"]
+[submodule "home/.vim//frugitive"]
 	path = home/.vim/bundle/frugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule "bundle/tabular"]
+[submodule "home/.vim//tabular"]
 	path = home/.vim/bundle/tabular
 	url = https://github.com/godlygeek/tabular.git
-[submodule "bundle/indexedSearch"]
+[submodule "home/.vim//indexedSearch"]
 	path = home/.vim/bundle/indexedSearch
 	url = https://github.com/vim-scripts/IndexedSearch.git
-[submodule "bundle/css3"]
+[submodule "home/.vim//css3"]
 	path = home/.vim/bundle/css3
 	url = https://github.com/vim-scripts/css3
-[submodule "bundle/nerdcommenter"]
+[submodule "home/.vim//nerdcommenter"]
 	path = home/.vim/bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
-[submodule "bundle/supertab"]
+[submodule "home/.vim//supertab"]
 	path = home/.vim/bundle/supertab
 	url = https://github.com/ervandew/supertab
-[submodule "bundle/vimgit"]
+[submodule "home/.vim//vimgit"]
 	path = home/.vim/bundle/vimgit
 	url = https://github.com/tpope/vim-git.git
-[submodule "bundle/solarized"]
+[submodule "home/.vim//solarized"]
 	path = home/.vim/bundle/solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
-[submodule "bundle/phpsyntax"]
+[submodule "home/.vim//phpsyntax"]
 	path = home/.vim/bundle/phpsyntax
 	url = https://github.com/vim-scripts/php.vim--Garvin.git
-[submodule "bundle/delimitMate"]
+[submodule "home/.vim//delimitMate"]
 	path = home/.vim/bundle/delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
-[submodule "bundle/syntastyc"]
+[submodule "home/.vim//syntastyc"]
 	path = home/.vim/bundle/syntastyc
 	url = https://github.com/scrooloose/syntastic.git
-[submodule "bundle/commandT"]
+[submodule "home/.vim//commandT"]
 	path = home/.vim/bundle/commandT
 	url = git://git.wincent.com/command-t.git
-[submodule "bundle/gundo"]
+[submodule "home/.vim//gundo"]
 	path = home/.vim/bundle/gundo
 	url = https://github.com/sjl/gundo.vim.git
-[submodule "bundle/gist"]
+[submodule "home/.vim//gist"]
 	path = home/.vim/bundle/gist
 	url = https://github.com/mattn/gist-vim.git
-[submodule "bundle/vimLaTex"]
+[submodule "home/.vim//vimLaTex"]
 	path = home/.vim/bundle/vimLaTex
 	url = git@github.com:juhasz/vimLaTeX.git
-[submodule "bundle/syntastic"]
+[submodule "home/.vim//syntastic"]
 	path = home/.vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule "bundle/vim_markdown"]
+[submodule "home/.vim//vim_markdown"]
 	path = home/.vim/bundle/vim_markdown
 	url = https://github.com/hallison/vim-markdown.git
