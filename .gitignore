@@ -1,3 +1,5 @@
 .netrwhist
 undodir
 backupdir
+.DS*
+
