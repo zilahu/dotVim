@@ -45,7 +45,7 @@
 	url = https://github.com/sjl/gundo.vim.git
 [submodule "home/.vim/bundle/gist"]
 	path = home/.vim/bundle/gist
-	url = https://github.com/mattn/gist-vim.git
+	url = https://github.com/mattn/gist-vim
 [submodule "home/.vim/bundle/vimLaTex"]
 	path = home/.vim/bundle/vimLaTex
 	url = git@github.com:juhasz/vimLaTeX.git
@@ -55,3 +55,12 @@
 [submodule "home/.vim/bundle/vim_markdown"]
 	path = home/.vim/bundle/vim_markdown
 	url = https://github.com/hallison/vim-markdown.git
+[submodule "home/.vim/bundle/IndexedSearch"]
+	path = home/.vim/bundle/IndexedSearch
+	url = https://github.com/vim-scripts/IndexedSearch.git
+[submodule "home/.vim/bundle/nerdcommander"]
+	path = home/.vim/bundle/nerdcommander
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "home/.vim/bundle/vim-git"]
+	path = home/.vim/bundle/vim-git
+	url = https://github.com/tpope/vim-git.git
