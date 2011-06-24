@@ -7,6 +7,8 @@ set modelines=0
 
 filetype plugin on
 
+let mapleader = "-"
+
 " color settings (solarized)
 let solarized_diffmode="high"
 set background=dark
@@ -82,6 +84,9 @@ nnoremap <Leader>nt :tabnew<CR>:CommandT<CR>
 nnoremap <Leader>ns :vne<CR>:CommandT<CR>
 nnoremap <Leader>nh :sp<CR>:CommandT<CR>
 nnoremap <Leader>e :CommandT<CR>
+
+" NerdTree
+nnoremap <Leader>tr :NERDTreeToggle<CR>
 
 " search
 set ignorecase
