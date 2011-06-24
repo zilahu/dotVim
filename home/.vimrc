@@ -15,7 +15,7 @@ call togglebg#map("<Leader>tb")
 
 " appereance
 syntax on
-set relativenumber
+set number
 set cursorline
 set cursorcolumn
 set wrap
@@ -34,8 +34,8 @@ set softtabstop=2
 set tabstop=2
 set mouse=a
 set shiftwidth=2
-set directory=~/.vim/backupdir//
-set undodir=~/.vim/undodir//
+set directory=~/.vim/backupdir/
+set undodir=~/.vim/undodir/
 set undofile
 set pastetoggle=<Leader>tp
 
