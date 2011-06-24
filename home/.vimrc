@@ -199,6 +199,12 @@ endif
 
 autocmd FileType css call SuperTabSetDefaultCompletionType("<c-x><c-o>")
 
+
+" Mac style keybindings
+if has("gui_macvim")
+    let macvim_hig_shift_movement = 1
+endif 
+
 " Source the vimrc file after saving it
 if has("autocmd")
   autocmd bufwritepost vimrc source $MYVIMRC
